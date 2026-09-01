@@ -1,0 +1,20 @@
+{
+  "rows_total": 50000,
+  "train_rows": 30000,
+  "validation_rows": 10000,
+  "test_rows": 10000,
+  "test_treated_return_rate": 0.37382429457674604,
+  "test_control_return_rate": 0.27823306016390165,
+  "test_experimental_ate": 0.0955912344128444,
+  "benchmark_predictive_auc": 0.6651033569387049,
+  "top_decile_observed_uplift": 0.2106601933191528,
+  "selected_target_fraction": 0.2,
+  "holdout_target_fraction": 0.2,
+  "holdout_targeted_customers": 2000,
+  "holdout_incremental_conversion_rate": 0.0426,
+  "holdout_incremental_conversions": 426.0,
+  "holdout_incremental_margin": 12962.86,
+  "holdout_offer_cost": 8000.0,
+  "holdout_incremental_profit": 4962.86,
+  "holdout_profit_per_customer": 0.49628599999999995
+}
